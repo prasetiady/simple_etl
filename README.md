@@ -13,6 +13,6 @@ Setup database for testing
 
 Run test for manager
   ```
-  mix test test/simple_etls/manager_test.exs
+  mix test test/simple_etl/manager_test.exs
   ```
 		
